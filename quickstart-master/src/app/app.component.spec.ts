@@ -4,6 +4,7 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { By }           from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
 
+//atom svn commit test
 describe('AppComponent', function () {
   let de: DebugElement;
   let comp: AppComponent;
